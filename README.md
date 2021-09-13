@@ -1,7 +1,7 @@
-# complete-data-structure-and-algorithms-cpp
+# Complete Data Structure and Algorithms In C++
 In this repository we will upload the complete Data structure and Algorithms. And the Implementation of this data structure present in C Plus Plus Language. It is very Important Notes For Learning In Depth Data Structure
 
-![Repository Banner](dsa-projects.jpg)
+![Repository Banner](dsa-projects.jpeg)
 
 # Motivation
 We all love to surf the Internet. Most of the times, we come across some cool awesome websites which we tend to bookmark for future use. And I love to say that I'm no exception to this behavior.
